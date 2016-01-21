@@ -1,0 +1,5 @@
+dependencies {
+    compile('org.springframework.boot:spring-boot-starter')
+    compile project(':influxdb-spring-boot-autoconfigure')
+    testCompile('junit:junit')
+}

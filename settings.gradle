@@ -1,0 +1,3 @@
+include 'influxdb-spring-boot-autoconfigure'
+include 'influxdb-spring-boot-starter'
+include 'influxdb-spring-boot-sample'

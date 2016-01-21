@@ -1,0 +1,6 @@
+dependencies {
+    compile('org.springframework.boot:spring-boot-autoconfigure')
+    compile('org.springframework.boot:spring-boot-configuration-processor')
+    compile('org.influxdb:influxdb-java:2.1')
+    testCompile('junit:junit')
+}
